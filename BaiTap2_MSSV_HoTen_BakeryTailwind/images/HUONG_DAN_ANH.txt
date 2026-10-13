@@ -1,0 +1,12 @@
+Thả ảnh thật vào thư mục này, đặt đúng tên .jpg như bên dưới (nếu chưa có thì trang tự dùng ảnh .svg tạm).
+Nguồn ảnh miễn phí: unsplash.com, pexels.com, pixabay.com
+
+hero.jpg    - từ khoá: strawberry layer cake, cake on wooden plate  (ngang, ~800x600)
+story.jpg   - từ khoá: bakery kitchen baking, baker hands dough    (ngang, ~700x500)
+cake-1.jpg  - Bánh bông lan trứng muối: sponge cake, salted egg cake
+cake-2.jpg  - Bánh tart trái cây: fruit tart
+cake-3.jpg  - Cookies trà xanh: matcha cookies
+cake-4.jpg  - Bánh kem dâu: strawberry cake slice
+cake-5.jpg  - Bánh su kem: cream puff, choux pastry
+cake-6.jpg  - Bánh mì nướng bơ: croissant, butter bread
+(cake-1..6 nên tỉ lệ 4:3, ~400x300)

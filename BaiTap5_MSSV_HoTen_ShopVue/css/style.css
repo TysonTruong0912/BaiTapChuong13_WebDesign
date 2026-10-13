@@ -1,0 +1,8 @@
+body { background: #fff; font-family: 'Segoe UI', Roboto, sans-serif; }
+.product-card { border-radius: 1rem; box-shadow: 0 2px 8px rgba(0,0,0,.12); transition: transform .2s; }
+.product-card:hover { transform: translateY(-4px); }
+.cart-box { background: #eef3fb; border-radius: 1rem; }
+.cart-item img { width: 44px; height: 44px; object-fit: cover; border-radius: .5rem; }
+.promo-banner { background: linear-gradient(90deg,#2f80ff,#7a4dff); color: #fff; font-weight: 700; }
+footer { background: #222; color: #ddd; }
+.cart-badge { position: absolute; top: -6px; right: -6px; }

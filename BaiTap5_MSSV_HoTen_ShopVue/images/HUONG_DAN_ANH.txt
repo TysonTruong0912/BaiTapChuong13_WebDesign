@@ -1,0 +1,11 @@
+Thả ảnh thật vào thư mục này, đặt đúng tên .jpg (vuông, ~400x400, nền trắng/xám nhạt càng đẹp).
+Nếu chưa có thì trang tự dùng ảnh .svg tạm. Nguồn miễn phí: unsplash.com, pexels.com, pixabay.com
+
+sp-1.jpg  - blue phone case
+sp-2.jpg  - silver/clear phone case
+sp-3.jpg  - wireless charger pad
+sp-4.jpg  - wireless earbuds white
+sp-5.jpg  - black phone case
+sp-6.jpg  - wireless charging stand
+sp-7.jpg  - sport earbuds
+sp-8.jpg  - usb-c charging cable
